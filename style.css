@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: black;
+}
+
+#intro,
+#info {
+  text-align: center;
+}
+
+#username {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#info {
+  background: url(https://img.freepik.com/free-vector/japanese-street-pastel-colours_52683-44714.jpg?w=2000);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#email,
+#facebook,
+#twitter,
+#github,
+#reddit,
+#tiktok {
+  border-radius: 50px;
+  background-color: white;
+  margin: 15px 3rem 15px 3rem;
+  padding: 15px 40px 15px 40px;
+  cursor: pointer;
+}
+
+#copyright,
+#emailcopyright {
+  font-style: italic;
+  font-size: 75%;
+  color: white;
+  margin: 0px 0 0px 0
+}
+
+#intro {
+  padding: 30px 0 0 0;
+  background: url(https://cdn.glitch.global/ac978166-dc93-4056-98f6-5b1c71fac5a2/introbg1.jpg?v=1659927089075);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
